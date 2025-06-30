@@ -49,6 +49,7 @@ PageObjectModelFrameworkMaven/
 │   └── Default suite/
 ├── target/
 ├── pom.xml
+└── README.md
 
 ```
 ## ⚙️ Setup Instructions
