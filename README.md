@@ -1,7 +1,7 @@
 # PageObjectModelFrameworkMaven
 
 A Selenium-based automation testing framework using the Page Object Model (POM) design pattern with Maven.  
-This project demonstrates a basic end-to-end test case for an e-commerce web application, including login, product selection, cart validation, and order placement.
+This project demonstrates a basic end-to-end test case for an [e-commerce web application](https://rahulshettyacademy.com/client/), including login, product selection, cart validation, and order placement.
 
 ## 📌 Features
 
